@@ -2,4 +2,4 @@
 ### A Growth Mindset in the words of Patrick
 ***"A growth mindset is understanding through adversity; a constructive way to develop through faliure."***
 
-![Hang In There!](71BoMD5mjNL._AC_SL1500_.jpg)
+(71BoMD5mjNL._AC_SL1500_.jpg)
