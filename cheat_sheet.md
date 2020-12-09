@@ -1,9 +1,13 @@
 ## **Super Secret** Reading Notes from *Day 2!*
 ### Basic Terminal Usage.
-~Concepts worth noting~
+~READ ME!!~
+
 #####**Relative Path**
+
 >A file or directory location relative to where we currently are in the file system.
+
 #####**Absolute Path**
+
 >A file or directory location in relation to the root of the file system.
 
 Commands | Explained
