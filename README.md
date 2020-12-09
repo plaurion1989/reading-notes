@@ -8,4 +8,5 @@
 2. **The cat isn't sad, it's determined!** _feeling sorry for myself instead of tackling something head on is a slippery slope!_
 3. **The cat isn't worried, it's excited for the oppourtunity to learn!** _taking every challenge life throws your way as an oppourtunity for growth!_
 
-[Day 2 Secret Notes!](
+[Day 2 Secret Notes!](cheat_sheet.md)
+
