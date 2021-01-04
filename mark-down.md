@@ -13,9 +13,9 @@ Code|Header Size
 
 #### Unordered List's
 These are written in markdown by using '-' or '*' before each listed statement; example
--this
--is the
--example
+- this
+- is the
+- example
 
 #### Ordered List's
 These are written in markdown my numbering before each statement by using '1.'
