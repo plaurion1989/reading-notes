@@ -1,4 +1,4 @@
-## **Super Secret** Reading Notes from *Day 2!*
+## **The Coders Computer Reading Assignment**
 ### Basic Terminal Usage.
 ~READ ME!!~
 
