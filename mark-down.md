@@ -26,7 +26,8 @@ Each numbered item can begin with '1.' and markdown will number them sequentiall
 
 ## Links
 #### Images
-Create an image link by starting with '!', then wrapping link text in brackets '[ ]', and then wrapping the URL in parentheses '()'.  an example of the entire markdown line for an image would look like this 
+Create an image link by starting with '!', then wrapping the description in brackets '[ ]', and then wrapping the link in parentheses '()'.  an example of the entire markdown line for an image would look like this 
+>
 !
 [See my Picture]
 (picture.jpeg)
