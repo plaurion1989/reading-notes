@@ -1,6 +1,6 @@
 ## **The Coders Computer Reading Assignment**
 ### Basic Terminal Usage.
-~READ ME!!~
+[My Favorite Cheat Sheet]()
 
 #### **Relative Path**
 
