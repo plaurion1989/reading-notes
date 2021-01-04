@@ -11,5 +11,5 @@
 ### About Me
 My name is Patrick, after many different career attempts i had finally decided to move in the direction of coding.  Currently, the track I am on is the Python 401 night course.  Focusing on my work life balance is something i have been neglecting in past years.  Since the birth of my second child, taking a new direction in life has taken priority.  A friend of mine completed these courses and is doing extreemely well in the field.  Inspired by many others after several years of hearing about Codefellows, I finally took the initiative to better myself and better my career!
 
-[Mark Down Reading Notes](cheat_sheet.md)
+
 
