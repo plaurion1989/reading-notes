@@ -24,12 +24,19 @@ Each numbered item can begin with '1.' and markdown will number them sequentiall
 1. i typed '1.' again
 1. did it again... but my list is still sequential.
 
-## Links
-#### Images
-Create an image link by starting with '!', then wrapping the description in brackets '[ ]', and then wrapping the link in parentheses '()'.  an example of the entire markdown line for an image would look like this 
+
+## Images
+Create an image link by starting with '!', then wrapping the description in brackets '[ ]', and then wrapping the link in parentheses '()'.  an example of the entire markdown line for an image would look like this:
 >
 *!*
 *[See my Picture]*
 *(picture.jpeg)*
+
+## Links
+You can create an inline link by wrapping link text in brackets '[ ]', and then wrapping the URL in parentheses '()'.  An example of the markdown line for a link would look like this:
+>
+*[My Favorite Site]*
+*(favoritesite.org)*
+
 
 [Back to Main Page](README.md)
