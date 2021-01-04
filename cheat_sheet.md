@@ -18,7 +18,8 @@ ls | List's the contents of the directory
 
 
 -Example of my own command line navigation:
-```/$ pwd
+```
+/$ pwd
 /
 /$ ls
 Applications			etc
@@ -51,9 +52,12 @@ Downloads$ cd ../
 ~$ pwd
 /Users/patricklaurion
 ~$ 
+
 ```
 
 ### **Chosing YOUR Favorite Text Editor**
 >Being curious about why one text editor was favored over another, I would download each text editor just to be able to compare. I can’t say that I’ve found an absolute favorite yet. But choosing a text editor ends up being a very personal choice, as personal as the sports teams you support.
 
 - Above is a clear definition about why this topic holds any real importance; it's all about personal preferece and ease of use.
+
+[Back to Main Page](README.md)
