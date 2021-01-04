@@ -1,6 +1,6 @@
 ## **The Coders Computer Reading Assignment**
 ### Basic Terminal Usage.
-[My Favorite Cheat Sheet]()
+[My Favorite Cheat Sheet](https://gist.github.com/poopsplat/7195274)
 
 #### **Relative Path**
 
