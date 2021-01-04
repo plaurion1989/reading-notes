@@ -28,8 +28,8 @@ Each numbered item can begin with '1.' and markdown will number them sequentiall
 #### Images
 Create an image link by starting with '!', then wrapping the description in brackets '[ ]', and then wrapping the link in parentheses '()'.  an example of the entire markdown line for an image would look like this 
 >
-!
-[See my Picture]
-(picture.jpeg)
+*!*
+*[See my Picture]*
+*(picture.jpeg)*
 
 [Back to Main Page](README.md)
