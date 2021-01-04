@@ -18,6 +18,7 @@ ls | List's the contents of the directory
 
 
 -Example of my own command line navigation:
+
 ```
 /$ pwd
 /
