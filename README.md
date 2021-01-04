@@ -1,5 +1,5 @@
 ## Welcome to Patricks Reading Notes
-[My Github Profile]()
+[My Github Profile](https://github.com/plaurion1989)
 ### A Growth Mindset in the words of Patrick
 ***"A growth mindset is understanding through adversity; a constructive way to develop through faliure."***
 
