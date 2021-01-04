@@ -9,5 +9,20 @@ Code|Header Size
 '###'|H3 (Mid Size)
 '######'|H6 (Smallest)
 
+## List's
+
+#### Unordered List's
+These are written in markdown by using '-' or '*' before each listed statement; example
+-this
+-is the
+-example
+
+#### Ordered List's
+These are written in markdown my numbering before each statement by using '1.'
+Each numbered item can begin with '1.' and markdown will number them sequentially; example
+1. i typed '1.'
+1. i typed '1.' again
+1. did it again... but my list is still sequential.
+
 
 [Back to Main Page](README.md)
