@@ -14,4 +14,4 @@ My name is Patrick, after many different career attempts i had finally decided t
 
 #### Table of Contents
 [Mark Down Explained](mark-down.md)
-[The Coders Computer]()
+[The Coders Computer](cheat_sheet.md)
