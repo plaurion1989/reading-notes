@@ -14,7 +14,7 @@ My name is Patrick, after many different career attempts i had finally decided t
 
 #### Table of Contents
 
-Class | Page
+Class # | Assignment
 ---------|----------
 Class 01 | [Mark Down Explained](mark-down.md)
 Class 02 | [The Coders Computer](cheat_sheet.md)
