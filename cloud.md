@@ -35,3 +35,4 @@ Add, Commit, Push is the sequence that allows locally worked and updated files t
 - "" is to write a note to clarify the changes or work done to said file or files in new update to GitHub
 - Push files to GitHub (git push origin main)
  
+ [Back to Main Page](README.md)
