@@ -6,9 +6,9 @@
 
 > Using Elements or Tags, HTML has a variety of framing tools to help the author design the framework of the web page while knowing exactly where and how the project is going to turn out.
 
- - "<"HTML">" is used to indicate that everything written within this tag is comprised of HTML code, anything after this tag "</"HTML">" is not considered apart of the structure of the site.
- - Anything between the "<"body">""</"body">" tags is content that is to be shown on the main site.
- - There are multitudes of these tags or elements that are used as buckets for information to be structured within the "<"HTML">" tag to be used at will in sequence by the architect of the site.
+ - `<HTML>` is used to indicate that everything written within this tag is comprised of HTML code, anything after this tag `</HTML>` is not considered apart of the structure of the site.
+ - Anything between the `<body>`,`</body>` tags is content that is to be shown on the main site.
+ - There are multitudes of these tags or elements that are used as buckets for information to be structured within the `<HTML>` tag to be used at will in sequence by the architect of the site.
 
 ## Chapter 8, Extra Markup
 
@@ -18,21 +18,21 @@
 
 ### A Few Tags I Learned
 
- ***"<"meta">"*** is used to tell the browser what your web page is about before the *"<"head">" tag.
+ ***`<meta>`*** is used to tell the browser what your web page is about before the *`<head>`* tag.
 
- ***"<!--""-->"*** is a tag that allows the author to leave notes out of view from the content within the page.
+ ***`<!--""-->`*** is a tag that allows the author to leave notes out of view from the content within the page.
 
- ***"<"iframe">"*** Is like a little window cut out of your page that allows you to view another page.  the term iframe is an abbreviation of inline frame.
+ ***`<iframe>`*** Is like a little window cut out of your page that allows you to view another page.  the term iframe is an abbreviation of inline frame.
 
 ## Chapter 17, HTML5 Layout
 
- > The utilization of the "<"div">" tag has been dramatically reduced, if not completely eliminated by most authors using HTML5 because of the new set of *Elements* of *Tags* that HTML5 provides in lue of using the afformentioned tag to divide up the parts of a page.
- - "<"header">" 
- - "<"nav">"
- - "<"article">"
- - "<"aside">"
+ > The utilization of the `<div>` tag has been dramatically reduced, if not completely eliminated by most authors using HTML5 because of the new set of *Elements* of *Tags* that HTML5 provides in lue of using the afformentioned tag to divide up the parts of a page.
+ - `<header>`
+ - `<nav>`
+ - `<article>`
+ - `<aside>`
 
- > However, the "<"div">" element is still going to be important in grouping together related elements.
+ > However, the `<div>` element is still going to be important in grouping together related elements.
 
  * The chapter goes on about the various new elements and their function.
 
