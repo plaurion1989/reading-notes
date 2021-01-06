@@ -18,3 +18,5 @@ Class # | Assignment
 ---------|----------
 Class 01 | [Mark Down Explained](mark-down.md)
 Class 02 | [The Coders Computer](cheat_sheet.md)
+Class 03 | [Revisions and the Cloud](cloud.md)
+Class 04 | [Structure webpages with HTML](HTML.md)
