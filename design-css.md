@@ -28,8 +28,9 @@ But ***BOTH*** of these methods would produce the exact same results so long as 
 
 ### CSS Selectors
 There are many different ways to tell elements of your HTLM to associate CSS rules to elements.  Selectors are unique and versital ways to accomplish your own personal styling touch to your entire webpage without having to code the same rule for certain elements.  a few examples in case i didnt explain that well enough are in the table below.
-**Selector** | *Meaning*
--------------|------------
+
+Selector | Meaning
+---------|----------
 Universal Selector | * {} Targets all elements of the page
 Type Selector | h1, h2, h3 {} Targets all the `<h1>`, `<h2>`, and `<h3>` elements
 
