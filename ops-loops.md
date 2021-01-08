@@ -27,7 +27,9 @@ Logic Operator | Meaning | Example
 ## Loops
 Loops check a condition, there are three types of loops:
 > For; these are the most commonly run loops, they run code a specific number of times.
+
 > While; this should run when you aren's sure how many times the code should run, the code will continue so long as the condition remains *true*.
+
 > Do While; its similar to the while loop, but the difference is that it will run everything inside a statement atleast once, even if the condition turns out to be false.
 
 [Back to Main Page](README.md)
