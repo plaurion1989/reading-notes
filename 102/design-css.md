@@ -52,4 +52,4 @@ There are three main ways to specify color in your CSS code.
 ### CSS3: HSL Colors
 The HSL refers to the Hue, Saturation and Lightness of a color.
 
-[Back to Main Page](README.md)
+[Back to Main Page](https://github.com/plaurion1989/reading-notes/blob/main/README.md)
