@@ -14,7 +14,7 @@ My name is Patrick, after many different career attempts i had finally decided t
 
 ## Table of Contents
 
-### Course 102
+### Code 102 Reading Notes
 
 Class # | Assignment
 ---------|----------
@@ -28,7 +28,7 @@ Class 06b | [Architecture and Logic](102/comp-logic.md)
 Class 07 | [Programming with Javascript](102/javascript.md)
 Class 08 | [Operators and Loops](102/ops-loops.md)
 
-### Course 201
+### Code 201 Reading Notes
 
 Class # | Assignment
 ---------|----------
