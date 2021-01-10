@@ -12,7 +12,9 @@
 ### About Me
 My name is Patrick, after many different career attempts i had finally decided to move in the direction of coding.  Currently, the track I am on is the Python 401 night course.  Focusing on my work life balance is something i have been neglecting in past years.  Since the birth of my second child, taking a new direction in life has taken priority.  A friend of mine completed these courses and is doing extreemely well in the field.  Inspired by many others after several years of hearing about Codefellows, I finally took the initiative to better myself and better my career!
 
-#### Table of Contents
+## Table of Contents
+
+### Course 102
 
 Class # | Assignment
 ---------|----------
@@ -25,3 +27,23 @@ Class 06a | [Introducing Java to your HTML](102/java.md)
 Class 06b | [Architecture and Logic](102/comp-logic.md)
 Class 07 | [Programming with Javascript](102/javascript.md)
 Class 08 | [Operators and Loops](102/ops-loops.md)
+
+### Course 201
+
+Class # | Assignment
+---------|----------
+Reading 01 | [Introductory HTML and Javascript](intro-html-js.md)
+Reading 02 | [TBD]
+Reading 03 | [TBD]
+Reading 04 | [TBD]
+Reading 05 | [TBD]
+Reading 06 | [TBD]
+Reading 07 | [TBD]
+Reading 08 | [TBD]
+Reading 09 | [TBD]
+Reading 10 | [TBD]
+Reading 11 | [TBD]
+Reading 12 | [TBD]
+Reading 13 | [TBD]
+Reading 14 | [TBD]
+Reading 15 | [TBD]
