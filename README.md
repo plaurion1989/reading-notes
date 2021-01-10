@@ -32,7 +32,7 @@ Class 08 | [Operators and Loops](102/ops-loops.md)
 
 Class # | Assignment
 ---------|----------
-Reading 01 | [Introductory HTML and Javascript](201/intro-html-js.md)
+Reading 01 | [Introductory HTML and Javascript](201/class-01.md)
 Reading 02 | [TBD]
 Reading 03 | [TBD]
 Reading 04 | [TBD]
