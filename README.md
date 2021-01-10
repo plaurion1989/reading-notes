@@ -18,15 +18,15 @@ My name is Patrick, after many different career attempts i had finally decided t
 
 Class # | Assignment
 ---------|----------
-Class 01 | [Mark Down Explained](102/mark-down.md)
-Class 02 | [The Coders Computer](102/cheat_sheet.md)
-Class 03 | [Revisions and the Cloud](102/cloud.md)
-Class 04 | [Structure webpages with HTML](102/HTML.md)
-Class 05 | [Designing Webpages with CSS](102/design-css.md)
-Class 06a | [Introducing Java to your HTML](102/java.md)
-Class 06b | [Architecture and Logic](102/comp-logic.md)
-Class 07 | [Programming with Javascript](102/javascript.md)
-Class 08 | [Operators and Loops](102/ops-loops.md)
+Reading 01 | [Mark Down Explained](102/mark-down.md)
+Reading 02 | [The Coders Computer](102/cheat_sheet.md)
+Reading 03 | [Revisions and the Cloud](102/cloud.md)
+Reading 04 | [Structure webpages with HTML](102/HTML.md)
+Reading 05 | [Designing Webpages with CSS](102/design-css.md)
+Reading 06a | [Introducing Java to your HTML](102/java.md)
+Reading 06b | [Architecture and Logic](102/comp-logic.md)
+Reading 07 | [Programming with Javascript](102/javascript.md)
+Reading 08 | [Operators and Loops](102/ops-loops.md)
 
 ### Code 201 Reading Notes
 
