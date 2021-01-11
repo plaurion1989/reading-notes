@@ -116,7 +116,7 @@ Operator | Meaning
 Logic Operator | Meaning | Example
 ---------------|---------|----------
 && | Logical AND | `((2>6) && (4>=2))` returns true
-\\|| | Logical OR | `((2<5) || (2<1))` returns true
+\\|\\| | Logical OR | `((2<5) || (2<1))` returns true
 ! | Logical NOT | `!(2<1)` returns true
 
 # Additional Reading Content
