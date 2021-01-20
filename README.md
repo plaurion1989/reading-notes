@@ -34,8 +34,8 @@ Class # | Assignment
 ---------|----------
 Reading 01 | [Introductory HTML and Javascript](201/class-01.md)
 Reading 02 | [HTML Text, CSS Introduction and Basic JavaScript Instructions](201/class-02.md)
-Reading 03 | [TBD]
-Reading 04 | [TBD]
+Reading 03 | [HTML Lists, CSS Boxes and JS Control Flow](201/class-03.md)
+Reading 04 | [HTML Links, JS Functions and Intro to CSS Layout](201/class-04.md)
 Reading 05 | [TBD]
 Reading 06 | [TBD]
 Reading 07 | [TBD]
