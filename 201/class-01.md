@@ -67,4 +67,4 @@ A Script is a series of instructions that your computer will follow in order to 
 3. Each step of the way has to be coded in the language that the computer understands.
 
 
-[Back to Main Page](https://github.com/plaurion1989/reading-notes/blob/main/README.md)
+[Back to Main Page](../README.md)

@@ -61,4 +61,4 @@ Downloads$ cd ../
 
 - Above is a clear definition about why this topic holds any real importance; it's all about personal preferece and ease of use.
 
-[Back to Main Page](https://github.com/plaurion1989/reading-notes/blob/main/README.md)
+[Back to Main Page](../README.md)

@@ -46,4 +46,4 @@
 
  > This is a useful tip to authors trying to navigate their design plans.  Allowing them to get an idea of what design flows best with the content that the author is prividing the page for viewer display.
 
-[Back to Main Page](https://github.com/plaurion1989/reading-notes/blob/main/README.md)
+[Back to Main Page](../README.md)

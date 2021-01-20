@@ -43,4 +43,4 @@ Paired programing does all of those things, there by helping each coder learn an
 
 1. Work environment readiness; most companies use this paired programming method in the workplace, given that it has so many benefits.
 
-[Back to Main Page](https://github.com/plaurion1989/reading-notes/blob/main/README.md)
+[Back to Main Page](../README.md)

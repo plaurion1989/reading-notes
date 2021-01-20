@@ -30,4 +30,4 @@ Once you have created a variable and given it a name, you can tell it informatio
 
 Assigning a value will require and assignment operator like an = sign followed by the variable desired value.  if you dont assign a value, the value is undefined.
 
-[Back to Main Page](https://github.com/plaurion1989/reading-notes/blob/main/README.md)
+[Back to Main Page](../README.md)

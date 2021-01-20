@@ -135,4 +135,4 @@ Maintaining a Consise and Consistent commit message format is essential when com
 1. Wrap the body at 72 characters
 1. Use the body to explain *what* and *why* vs. *how*
 
-[Back to Main Page](https://github.com/plaurion1989/reading-notes/blob/main/README.md)
+[Back to Main Page](../README.md)

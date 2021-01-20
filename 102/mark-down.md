@@ -39,4 +39,4 @@ You can create an inline link by wrapping link text in brackets '[ ]', and then 
 *(favoritesite.org)*
 
 
-[Back to Main Page](https://github.com/plaurion1989/reading-notes/blob/main/README.md)
+[Back to Main Page](../README.md)

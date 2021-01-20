@@ -32,4 +32,4 @@ Loops check a condition, there are three types of loops:
 
 > Do While; its similar to the while loop, but the difference is that it will run everything inside a statement atleast once, even if the condition turns out to be false.
 
-[Back to Main Page](https://github.com/plaurion1989/reading-notes/blob/main/README.md)
+[Back to Main Page](../README.md)

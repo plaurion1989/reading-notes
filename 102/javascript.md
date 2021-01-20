@@ -46,4 +46,4 @@ Modulus | % | Divides two values and returns the remainder
 I could read this chapter a hundred times and still not fully understand these concepts.  A function lets you group a series of statements together to perform a task as many times as you'd like without having to type out each statement within a function repeatedly.  you could have a long sequence that performs as a function, but as long as the function exists, all you would need to do in order to perform that function would be to call the function in your code.  example `basicFunction();` is all you would need to type in your code after you established the function.
 
 
-[Back to Main Page](https://github.com/plaurion1989/reading-notes/blob/main/README.md)
+[Back to Main Page](../README.md)
