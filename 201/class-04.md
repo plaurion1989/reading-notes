@@ -30,6 +30,7 @@ There are four main skills that help coders learn
 Paired programing does all of those things, there by helping each coder learn and absorb during the process.
 
 >There are 6 other factors to promote pair programming.
+
 1. Greater Efficiency; Research indicates that pair programming takes slightly shorter time and produces higher quality code.
 
 1. Engaged Collaberation; its much harder to procrastinate when someone else is relying on you to complete your work.
