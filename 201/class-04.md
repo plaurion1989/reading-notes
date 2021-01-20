@@ -14,6 +14,14 @@ Grandparent Folder | `<a href="../../example5.html">EXAMPLE5</a>`
 
 
 ## Chapter 15; Layout
+This chapter is everything to do with element arrangement and style.
+styling they go over include:
+1. position:static.  normal flow
+1. position:relative. relation to where it would have been in normal.
+1. position:absolute.  taken out of normal flow and doesnt affectb other elements position.
+1. position:fixed. is a type of absolute position, but fixes element in position regardless of other element positions.
+
+they go on to describe the importance of screen size and creating the styling to fit all screen types in mobile or desktop settings.
 
 # Book Javascript/JQuery
 ## Chapter 3; Functions, Methods and Objects
