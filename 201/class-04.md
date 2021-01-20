@@ -1,10 +1,23 @@
 # Book HTML/CSS
 ## Chapter 4; Links
+Links are created by using the `<a>` tag.  you can click on anythng that is written between the opening and closing `<a>` tag.  you specify where you want to link to by using the *href* attribute within the opening tag.
+
+when linking between your own content within your folders, you would use a relative link method.
+
+Relative Link Type | Example
+-------------------|----------------
+Same Folder | `<a href="example1.html">EXAMPLE1</a>`
+Child Folder | `<a href="one/example2.html">EXAMPLE2</a>`
+Grandchild Folder | `<a href="one/two/example3.html">EXAMPLE3</a>`
+Parent Folder | `<a href="../example4.html">EXAMPLE4</a>`
+Grandparent Folder | `<a href="../../example5.html">EXAMPLE5</a>`
+
 
 ## Chapter 15; Layout
 
 # Book Javascript/JQuery
 ## Chapter 3; Functions, Methods and Objects
+I could read this chapter a hundred times and still not fully understand these concepts.  A function lets you group a series of statements together to perform a task as many times as you'd like without having to type out each statement within a function repeatedly.  you could have a long sequence that performs as a function, but as long as the function exists, all you would need to do in order to perform that function would be to call the function in your code.  example `basicFunction();` is all you would need to type in your code after you established the function.
 
 # Article; 6 Reasons for Pair Programming
 Two coders work together at a single work station, one is the navigator and one is the driver.  The Navigator uses words to navigate and keeps eyes on the big picture, also doesnt provide any direct input to the computer.  the Driver does all of the computer input work.
