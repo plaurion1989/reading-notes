@@ -1,4 +1,4 @@
-# Book
+# Book: HTML & CSS
 ## Chapter 3; Lists
 HTML has three types of lists:
 1. Ordered Lists, listed out alpha/numeric in nature usualy. 
@@ -26,7 +26,7 @@ There are many different styles of boarders, so dont be afraid to play around an
 - Outset
 
 you can style or thicken any side of the boarder, and you can even round them out as well by adjusting the boarder-radius:  making a boarder into a full circle is even a fun possibility!
-# Book
+# Book: Javascript & JQuery
 ## Chapter 4; Decisions and Loops
 ### IF ... ELSE statement
 > The `IF` is used to determine if a condition is true or truthy While the `ELSE` or `ELSE IF` statements are used when it is not.
