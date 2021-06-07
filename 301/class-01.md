@@ -15,6 +15,7 @@ A component is a software object  that interacts with other components that has 
 1. Encapsulated
 1. Independent
 ## Component-Level Desigh Guidelines
+***Direct Quote from `https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm`***
 >  Attains architectural component names from the problem domain and ensures that they have meaning to all stakeholders who view the architectural model.
 >  Extracts the business process entities that can exist independently without any associated dependency on other entities.
 >  Recognizes and discover these independent entities as new components.
