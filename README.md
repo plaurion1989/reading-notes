@@ -47,3 +47,10 @@ Reading 12 | [Docs for the HTML <canvas> Element & Chart.js](201/class-12.md)
 Reading 13 | [Local Storage](201/class-13.md)
 Reading 14a | [CSS Transforms, Transitions and Animations](201/class-14.md)
 Reading 14b | [What Google Learned About Teams](201/class-15.md)
+
+### Code 301 Reading Notes
+
+Class # | Assignment
+---------|----------
+Reading 01 | [Intro to React Components](301/class-01.md)
+
