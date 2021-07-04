@@ -52,7 +52,18 @@ Reading 14b | [What Google Learned About Teams](201/class-15.md)
 
 Class # | Assignment
 ---------|----------
-Reading 01 | [Intro to React Components](301/class-01.md)
-Reading 02 | [LifeCyle events](301/class-02.md)
-Reading 03 | [Passing Functions as Props](301/class-03.md)
+Reading 01 | [READ01](301/class-01.md)
+Reading 02 | [READ02](301/class-02.md)
+Reading 03 | [READ03](301/class-03.md)
+Reading 04 | [READ04](301/class-04.md)
+Reading 05 | [READ05](301/class-05.md)
+Reading 06 | [READ06](301/class-06.md)
+Reading 07 | [READ07](301/class-07.md)
+Reading 08 | [READ08](301/class-08.md)
+Reading 09 | [READ09](301/class-09.md)
+Reading 10 | [READ10](301/class-10.md)
+Reading 11 | [READ11](301/class-11.md)
+Reading 12 | [READ12](301/class-12.md)
+Reading 13 | [READ13](301/class-13.md)
+Reading 14 | [READ14](301/class-14.md)
 
