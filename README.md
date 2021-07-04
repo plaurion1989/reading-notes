@@ -53,6 +53,6 @@ Reading 14b | [What Google Learned About Teams](201/class-15.md)
 Class # | Assignment
 ---------|----------
 Reading 01 | [Intro to React Components](301/class-01.md)
-Reading 02 | [](301/class-02.md)
+Reading 02 | [LifeCyle events](301/class-02.md)
 Reading 03 | [Passing Functions as Props](301/class-03.md)
 
