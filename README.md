@@ -10,7 +10,7 @@
 3. **The cat isn't worried, it's excited for the oppourtunity to learn!** _taking every challenge life throws your way as an oppourtunity for growth!_
 
 ### About Me
-My name is Patrick, after many different career attempts i had finally decided to move in the direction of coding.  Currently, the track I am on is the Python 401 night course.  Focusing on my work life balance is something i have been neglecting in past years.  Since the birth of my second child, taking a new direction in life has taken priority.  A friend of mine completed these courses and is doing extreemely well in the field.  Inspired by many others after several years of hearing about Codefellows, I finally took the initiative to better myself and better my career!
+My name is Patrick, I am currently learning Java in the Code Fellows 401 program.  Serving in the US Navy has provided unique insite into team efficiency and effectively working with a sense of urgency.  Having experience working in a diverse work place environment, I understand the value each individual brings to the table and sharing that value builds an even stronger group of people. Since the birth of my second child, I have dedicated myself to the persuit of a better career.  Inspired by many other Code Fellows graduates, I finally took the initiative to better myself through education.
 
 ## Table of Contents
 
