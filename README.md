@@ -14,7 +14,7 @@ My name is Patrick, I am currently learning Java in the Code Fellows 401 program
 
 ## Table of Contents
 
-### Code 102 Reading Notes
+### Code 102 HTML, CSS and JavaScript Foundation: Reading Notes
 
 Class # | Assignment
 ---------|----------
@@ -28,7 +28,7 @@ Reading 06b | [READ06b](102/comp-logic.md)
 Reading 07 | [READ07](102/javascript.md)
 Reading 08 | [READ08](102/ops-loops.md)
 
-### Code 201 Reading Notes
+### Code 201 Beginning JavaScript: Reading Notes
 
 Class # | Assignment
 ---------|----------
@@ -48,7 +48,7 @@ Reading 13 | [READ13](201/class-13.md)
 Reading 14a | [READ14a](201/class-14.md)
 Reading 14b | [READ14b](201/class-15.md)
 
-### Code 301 Reading Notes
+### Code 301 Intermediate JavaScript, React: Reading Notes
 
 Class # | Assignment
 ---------|----------
@@ -67,7 +67,7 @@ Reading 12 | [READ12](301/class-12.md)
 Reading 13 | [READ13](301/class-13.md)
 Reading 14 | [READ14](301/class-14.md)
 
-### Code 401 Java Reading Notes
+### Code 401 Advanced Programming in Java: Reading Notes
 
 Class # | Assignment
 ---------|----------
