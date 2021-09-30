@@ -24,3 +24,5 @@ The most common type of interfaces are small group of related methods with empty
 All class methods implementing an interface should appear in your source code in order for the class to compile.  Compilation will fail if the methods are missing at build time.
 
 Using the ***implement*** keyword on a class will allow you to use the interface, though you will likely need to re-name the class you are running your interface on using the keyword.
+
+[Back to Main Page](../README.md)

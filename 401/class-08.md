@@ -10,3 +10,5 @@ Repetition reducing principal that uses data normalization or abstractions to av
 The version of a product that has just enough features to be usable by a customer base that is willing to provide feedback to improve features and add new features in future development.  it exists to avoid unnecessary work before obtaining consumer feedback. the term was defined by ***Frank Robinson***.
 ## YAGNI; You Aren't Going to Need It
 is an extreme programming principal that states a programmer shouldn't add functionality until it is absolutely necessary.  Basically, do the simplest thing that will work for your codebase needs.  written in part by ***Ron Jeffries***.
+
+[Back to Main Page](../README.md)
