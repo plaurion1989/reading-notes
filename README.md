@@ -110,7 +110,6 @@ Reading 36 | [READ36](401/class-36.md)
 Reading 37 | [READ37](401/class-37.md)
 Reading 38 | [READ38](401/class-38.md)
 Reading 39 | [READ39](401/class-39.md)
-Reading 40 | [READ40](401/class-40.md)
 Reading 41 | [READ41](401/class-41.md)
 Reading 42 | [READ42](401/class-42.md)
 
