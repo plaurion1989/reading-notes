@@ -1,4 +1,4 @@
-#Open-Source Software Contribution
+# Open-Source Software Contribution
 ## [First Timers Only](https://www.firsttimersonly.com/)
 Online resource suggesting different resources for new developers or developers new to Open Source contributing.  Resources:
 
